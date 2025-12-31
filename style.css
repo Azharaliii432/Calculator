@@ -1,0 +1,29 @@
+body {
+  background-color: #ffffff;
+}
+
+.calculator-box {
+  width: 360px;
+  background-color: #f9f9f6;
+  border: 2px solid #c0392b;
+  border-radius: 16px;
+}
+
+.calculator-display {
+  height: 45px;
+  font-size: 18px;
+  background-color: #ffffff;
+}
+
+button.btn-primary {
+  background-color: #0d6efd;
+  border-radius: 8px;
+  font-weight: 500;
+}
+
+button.btn-primary:hover {
+  background-color: #0b5ed7;
+}
+#input{
+    text-align: right;
+}
